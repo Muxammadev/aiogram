@@ -1,0 +1,3 @@
+# BU YERDA ESA HAR BIR STATELAR IMPORT QILIB QO'YILADI
+
+from .states import ExampleState
